@@ -105,7 +105,7 @@ nav .ingreso ul li a{
 }
 nav ul li a:hover{
     background: rgba(0,0,0,0.5);
-    border-bottom: 3px solid #aaa;
+    border-bottom: 3px solid #222;
 }
 /* Nivel 1 */
 nav li ul{
@@ -140,6 +140,7 @@ aside h3{
 }
 aside h4{
     margin-bottom: 10px;
+    
 }
 aside a{
 
@@ -154,8 +155,8 @@ aside a{
 }
 aside a:hover{
     background: rgba(0,0,0,0.5);
-    color: #ccc;
-    border-left: 10px solid #ccc;
+    color: #aaa;
+    border-left: 10px solid #222;
 }
 .mod-perfil{
     width: 100%;
@@ -230,7 +231,7 @@ footer{
 .foot-izq{
     width: 20%;
     height: 100%;
-    background: #ddd;
+    background: #aaa;
     float: left;
 }
 .foot-izq ul{
@@ -243,10 +244,9 @@ footer{
 }
 .foot-izq ul li a{
     display: block;
-
     text-decoration: none;
     padding: 13px 5px 11px 5px;
-    color: #333;
+    color: #aaa;
 }
 .foot-izq ul li a:hover{
     background: rgba(0,0,0,0.5);
@@ -255,7 +255,7 @@ footer{
     width: 80%;
     height: 100%;
     padding: 6px;
-    background: #ddd;
+    background:#222;
     float: left;
     font-size: 11px;
 }

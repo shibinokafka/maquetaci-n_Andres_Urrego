@@ -42,6 +42,7 @@
     height: 50px;
     background-color:lightgreen;
     position: fixed;
+    max-width: 1280px;
     }
     /*La suma da 100=65+15+20*/
     .logo{
